@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+/*controller*/
 class CalculatorController{
 	@Autowired
 	private Calculator calculator;
