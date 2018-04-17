@@ -11,4 +11,11 @@ public class CalculatorTest{
 	public void testSum(){
 		assertEquals(5,calculator.sum(2,3));
 	}
+
+	/*testSub*/
+	@Test
+	public void testSub(){
+		assertEquals(-1,calculator.sub(2,3));
+	}
+	
 }
