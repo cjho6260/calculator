@@ -2,7 +2,7 @@ package com.cjho6260.calculator;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-/*Test*/
+/**Test*/
 public class CalculatorTest{
 	private Calculator calculator = new Calculator();
 	

@@ -6,9 +6,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 
-/*testMethod*/
+/**testMethod*/
 @RunWith(SpringRunner.class)
 @SpringBootTest
+/**test*/
 public class CalculatorApplicationTests {
 	/*Method*/
 	@Test
